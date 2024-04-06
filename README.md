@@ -6,7 +6,7 @@
 ### <div align="center">I'm Belén, a Full Stack Developer 👩‍💻 from Argentina.</div>  
   
 
-- 🛠️ I’m currently working on [Study Advisor](https://github.com/BelenDeAmorrortu/Front-StudyAdvisor)  
+- 💻 Front End Developer at [Bewise]([https://github.com/BelenDeAmorrortu/Front-StudyAdvisor](https://ar.linkedin.com/company/bewisear)).
   
 
 - ⚡ Fun fact: I consider 4 spaced indentation essential for a clean an readable code.  
@@ -57,11 +57,6 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelenDeAmorrortu&hide_border=true&layout=compact" align="center" /></div>  
-<br/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=BelenDeAmorrortu&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
   
 
 <br/>  
